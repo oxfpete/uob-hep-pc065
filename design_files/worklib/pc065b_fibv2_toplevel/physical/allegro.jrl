@@ -1,0 +1,123 @@
+\t (00:00:01) allegro 17.4 S011 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Thu Jun  6 08:20:03 2024
+\t (00:00:01)         Host=ELWE4 User=hastingsp Pid=7188 CPUs=32
+\t (00:00:01) CmdLine= allegro -proj \\ppfs6.physics.ox.ac.uk\CEG\Central Electronics\Projects\Hastingsp\DUNE\uob-hep-pc065\design_files\pc065c_fibv2_toplevel.cpm -product PCB_librarian_expert -mpssession hastingsp_ProjectMgr21634 -mpshost ELWE4
+\t (00:00:01) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "pc065c_fibv2_toplevel_28smoothed"
+\d (00:00:03) Design opened: //ppfs6.physics.ox.ac.uk/CEG/Central Electronics/Projects/Hastingsp/DUNE/uob-hep-pc065/design_files/worklib/pc065b_fibv2_toplevel/physical/pc065c_fibv2_toplevel_28smoothed.brd
+\i (00:00:03) trapsize 3987
+\i (00:00:03) trapsize 4166
+\i (00:00:03) trapsize 3987
+\i (00:00:03) trapsize 2933
+\i (00:00:03) trapsize 3011
+\i (00:00:03) trapsize 3409
+\i (00:00:05) generaledit 
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 21.402 54.710
+\i (00:00:05) trapsize 1704
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -16.648 61.187
+\i (00:00:05) trapsize 852
+\i (00:00:09) show element 
+\i (00:00:10) pick grid 93.972 82.834
+\t (00:00:10) last pick:  94.000 82.800
+\i (00:09:38) zoom in 1 
+\i (00:09:38) setwindow pcb
+\i (00:09:38) zoom in 33.123 27.950
+\i (00:09:38) trapsize 426
+\i (00:09:38) zoom in 1 
+\i (00:09:38) setwindow pcb
+\i (00:09:38) zoom in 31.759 37.495
+\i (00:09:38) trapsize 213
+\i (00:09:38) zoom in 1 
+\i (00:09:38) setwindow pcb
+\i (00:09:38) zoom in 31.759 37.495
+\i (00:09:38) trapsize 107
+\i (00:09:41) zoom out 1 
+\i (00:09:41) setwindow pcb
+\i (00:09:41) zoom out 33.208 38.241
+\i (00:09:41) trapsize 213
+\i (00:09:41) zoom out 1 
+\i (00:09:41) setwindow pcb
+\i (00:09:41) zoom out 33.209 38.199
+\i (00:09:41) trapsize 426
+\i (00:09:42) zoom out 1 
+\i (00:09:42) setwindow pcb
+\i (00:09:42) zoom out 33.209 38.199
+\i (00:09:42) trapsize 852
+\i (00:09:42) roam start
+\i (00:09:42) roam x 16
+\i (00:09:42) roam y 16
+\i (00:09:43) roam x 32
+\i (00:09:43) roam y 16
+\i (00:09:43) roam x 48
+\i (00:09:43) roam y 16
+\i (00:09:43) roam x 16
+\i (00:09:43) roam x 64
+\i (00:09:43) roam y 16
+\i (00:09:43) roam x 80
+\i (00:09:43) roam y 32
+\i (00:09:43) roam x 16
+\i (00:09:43) roam y 16
+\i (00:09:43) roam x 32
+\i (00:09:43) roam y 16
+\i (00:09:43) roam x 64
+\i (00:09:43) roam y 16
+\i (00:09:43) roam x 16
+\i (00:09:43) roam y 16
+\i (00:09:43) roam x 16
+\i (00:09:43) roam end
+\i (00:09:44) zoom in 1 
+\i (00:09:44) setwindow pcb
+\i (00:09:44) zoom in 128.104 9.019
+\i (00:09:44) trapsize 426
+\i (00:09:44) zoom in 1 
+\i (00:09:44) setwindow pcb
+\i (00:09:44) zoom in 128.189 9.019
+\i (00:09:44) trapsize 213
+\i (00:09:47) pick grid 121.755 13.280
+\t (00:09:47) last pick:  121.800 13.300
+\i (00:09:50) zoom out 1 
+\i (00:09:50) setwindow pcb
+\i (00:09:50) zoom out 119.113 10.809
+\i (00:09:50) trapsize 426
+\i (00:09:50) zoom out 1 
+\i (00:09:50) setwindow pcb
+\i (00:09:50) zoom out 119.113 10.809
+\i (00:09:50) trapsize 852
+\i (00:09:58) pick grid 154.056 51.886
+\t (00:09:58) last pick:  154.100 51.900
+\i (00:09:58) roam start
+\i (00:09:58) roam x -32
+\i (00:09:58) roam x -32
+\i (00:09:58) roam y 16
+\i (00:09:58) roam x -16
+\i (00:09:58) roam end
+\i (00:09:59) zoom in 1 
+\i (00:09:59) setwindow pcb
+\i (00:09:59) zoom in 12.881 9.872
+\i (00:09:59) trapsize 426
+\i (00:09:59) zoom in 1 
+\i (00:09:59) setwindow pcb
+\i (00:09:59) zoom in 12.285 9.702
+\i (00:09:59) trapsize 213
+\i (00:09:59) roam start
+\i (00:09:59) roam x -16
+\i (00:09:59) roam x -224
+\i (00:09:59) roam y 32
+\i (00:10:00) roam x -32
+\i (00:10:00) roam y 16
+\i (00:10:00) roam x -160
+\i (00:10:00) roam end
+\i (00:10:03) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (00:10:04) QtSignal CVPLayerGrid CVPAllConductors clicked false
+\i (00:10:08) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: 01_working_bottom"
+\i (00:10:08) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: 01_working_bottom"
+\i (00:10:09) pick grid 11.345 5.481
+\t (00:10:09) last pick:  11.300 5.500
+\i (00:13:18) exit 
+\t (00:13:21)     Journal end - Thu Jun  6 08:33:22 2024
